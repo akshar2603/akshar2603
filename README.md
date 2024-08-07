@@ -5,8 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Akshar+Lakhankiya's+Github+Profile..." alt="akshar lakhankiya's Profile Banner" />
 </p>
 
-👋
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akshar Lakhankiya</h2></p>
+
+<p>👋<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akshar Lakhankiya</h2></p>
 
 - 📫 How to reach me **aksharlakhakiya@gmail.com**
 

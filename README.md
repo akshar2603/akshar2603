@@ -15,9 +15,9 @@
 - ⚡ Fun fact **I am single😂**
 
 
-👋 Welcome to my GitHub profile! I'm Savan Gadhiya, a dedicated Full Stack Developer with a passion for crafting efficient solutions and tackling challenges head-on. With a year of hands-on experience, I bring expertise in MERN (MongoDB, Express.js, React.js, Node.js) stack development to my skill set.
+👋 Welcome to my GitHub profile! I'm Akshar Lakhakiya, a dedicated Full Stack Developer with a passion for crafting efficient solutions and tackling challenges head-on. With a year of hands-on experience, I bring expertise in MERN (MongoDB, Express.js, React.js, Node.js) stack development to my skill set.
 
-🚀 In my recent role, I've driven innovation in backend development, developing features, optimizing codebases, and swiftly troubleshooting bugs. Through effective communication with cross-functional teams like QA testers and product managers, I ensure alignment on project goals, resulting in top-notch solutions meeting technical and business objectives.
+<!--🚀 In my recent role, I've driven innovation in backend development, developing features, optimizing codebases, and swiftly troubleshooting bugs. Through effective communication with cross-functional teams like QA testers and product managers, I ensure alignment on project goals, resulting in top-notch solutions meeting technical and business objectives. -->
 
 🌟 In my free time, I'm constantly adding new skills to my repertoire and occasionally contributing to open-source projects.
 

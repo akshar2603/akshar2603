@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Akshar Lakhankiya</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-
+<!-- <h3 align="center">A passionate Fullstack developer from India</h3>
+ -->
 - 📫 How to reach me **aksharlakhakiya@gmail.com**
 
 - 📄 Know about my experiences [https://aksharlakhankiyaresume.tiiny.site/](https://aksharlakhankiyaresume.tiiny.site/)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am single😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

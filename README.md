@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Akshar Lakhankiya</h1>
-<!-- <h3 align="center">A passionate Fullstack developer from India</h3>
- -->
+<p align="center">
+<!-- <img src="assets/Profile%20Banner.gif" alt="Savan Gadhiya's Profile Banner" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Savan+Gadhiya's+Github+Profile..." alt="Savan Gadhiya's Profile Banner" />
+</p>
+
+
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Savan Gadhiya</h2></p>
+
 - 📫 How to reach me **aksharlakhakiya@gmail.com**
 
 - 📄 Know about my experiences [https://aksharlakhankiyaresume.tiiny.site/](https://aksharlakhankiyaresume.tiiny.site/)

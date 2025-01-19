@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://lakhankiyainnovation.vercel.app/**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences - https://github.com/akshar2603?tab=repositories
 
 - ⚡ Fun fact **I am single😂**
 

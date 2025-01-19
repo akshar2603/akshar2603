@@ -8,9 +8,9 @@
 
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akshar Lakhaniya</h2></p>
 
-- 📫 How to reach me **aksharlakhakiya@gmail.com**
+- 📫 How to reach me **https://lakhankiyainnovation.vercel.app/**
 
-- 📄 Know about my experiences [https://aksharlakhankiyaresume.tiiny.site/](https://aksharlakhankiyaresume.tiiny.site/)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am single😂**
 
